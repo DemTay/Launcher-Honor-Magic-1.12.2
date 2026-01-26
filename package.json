@@ -1,14 +1,10 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
+  "name": "Honor&MagicLauncher",
+  "version": "0.0.6",
+  "productName": "",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Honor&Magic (Fork of Daniel Scalzi (https://github.com/dscalzi/))",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
-  "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
-  },
   "private": true,
   "main": "index.js",
   "scripts": {
@@ -47,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/DemTay/Launcher-Honor-Magic-1.12.2.git"
   }
 }
