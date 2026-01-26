@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'honor&magiclauncher'
+productName: 'Honor&Magic Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2026 Daniel Scalzi'
+copyright: 'Copyright © 2025-2026 Honor&Magic'
 
 asar: true
 compression: 'maximum'
