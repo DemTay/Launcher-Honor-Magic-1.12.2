@@ -1,7 +1,7 @@
 [ejs.landing]
 updateAvailableTooltip = "Mise à jour disponible"
 usernamePlaceholder = "Nom d'utilisateur"
-usernameEditButton = "Modifier"
+usernameEditButton = ""
 settingsTooltip = "Paramètres"
 serverStatus = "SERVEUR"
 serverStatusPlaceholder = "HORS LIGNE"
@@ -168,7 +168,7 @@ loading = "Chargement.."
 [js.landing.serverStatus]
 server = "SERVEUR"
 offline = "HORS LIGNE"
-players = "JOUEURS"
+players = "JOUEURS EN LIGNE"
 
 [js.landing.systemScan]
 checking = "Vérification.."
